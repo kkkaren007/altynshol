@@ -1,0 +1,35 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.navbar{
+  height: 100px;
+  border: 1px;
+}
+
+.navbar-nav li{
+  padding-left:50px;
+  padding-right:50px;
+  font-size: 24px;
+} 
+
+body {
+  overflow-x: hidden;
+}
+
+h6{
+  line-height: 26px; 
+}
+
+hr{
+  color: black;
+}
+
+footer{
+  background-color: rgb(235, 235, 235);
+  height: 310px;
+}
+
+.col-6{
+  font-size: 17.5px;
+}
